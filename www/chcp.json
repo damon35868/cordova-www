@@ -1,5 +1,5 @@
 {
   "update": "start",
-  "content_url": "http://home.finalx.cc:8888/var/cordova/www/",
-  "release": "2023.03.09-09.40.36"
+  "content_url": "https://github.com/damon35868/cordova-www/tree/master/www",
+  "release": "2023.03.09-09.42.29"
 }
